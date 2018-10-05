@@ -10,6 +10,8 @@ namespace ejercicio1.net
 			String nombre= Console.ReadLine();
 			
 			Console.WriteLine("hola "+nombre);
+
+			int edad= Convert.ToInt32(Console.ReadLine();
         }
     }
 }
