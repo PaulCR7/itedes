@@ -1,3 +1,4 @@
 function saludar() {
-	alert('hola mundo');
+	const nombre= prompt('hola mundo');
+	alert(`hola ${nombre}`);
 }
