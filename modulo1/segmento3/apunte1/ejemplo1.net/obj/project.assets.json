@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alumno/itedes/modulo2/segmento2/apunte1/ejercicio1.net/ejercicio1.net.csproj",
-      "projectName": "ejercicio1.net",
-      "projectPath": "/home/alumno/itedes/modulo2/segmento2/apunte1/ejercicio1.net/ejercicio1.net.csproj",
+      "projectUniqueName": "/home/alumno/itedes/modulo1/segmento3/apunte1/ejemplo1.net/ejemplo1.net.csproj",
+      "projectName": "ejemplo1.net",
+      "projectPath": "/home/alumno/itedes/modulo1/segmento3/apunte1/ejemplo1.net/ejemplo1.net.csproj",
       "packagesPath": "/home/alumno/.nuget/packages/",
-      "outputPath": "/home/alumno/itedes/modulo2/segmento2/apunte1/ejercicio1.net/obj/",
+      "outputPath": "/home/alumno/itedes/modulo1/segmento3/apunte1/ejemplo1.net/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

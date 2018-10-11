@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ejercicio1.net")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ejemplo1.net")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ejercicio1.net")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ejercicio1.net")]
+[assembly: System.Reflection.AssemblyProductAttribute("ejemplo1.net")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ejemplo1.net")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "ejercicio1.net/1.0.0": {
+      "ejemplo1.net/1.0.0": {
         "runtime": {
-          "ejercicio1.net.dll": {}
+          "ejemplo1.net.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ejercicio1.net/1.0.0": {
+    "ejemplo1.net/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
