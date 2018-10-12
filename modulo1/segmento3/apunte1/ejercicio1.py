@@ -1,5 +1,7 @@
-edad= int(input("ingrese su edad: "))
+numero= int(input("ingrese un numero entero: "))
 
-if edad >=18:
-	print("usted es mayor")
+if numero >=10:
+	print("correcto")
+if numero <=9:
+	print("incorrecto")
 
