@@ -1,0 +1,11 @@
+/home/alumno/itedes/modulo1/segmento2/apunte3/ejemplos/ejemplo.net/obj/Debug/netcoreapp2.1/ejemplo.net.csprojAssemblyReference.cache
+/home/alumno/itedes/modulo1/segmento2/apunte3/ejemplos/ejemplo.net/obj/Debug/netcoreapp2.1/ejemplo.net.csproj.CoreCompileInputs.cache
+/home/alumno/itedes/modulo1/segmento2/apunte3/ejemplos/ejemplo.net/obj/Debug/netcoreapp2.1/ejemplo.net.AssemblyInfoInputs.cache
+/home/alumno/itedes/modulo1/segmento2/apunte3/ejemplos/ejemplo.net/obj/Debug/netcoreapp2.1/ejemplo.net.AssemblyInfo.cs
+/home/alumno/itedes/modulo1/segmento2/apunte3/ejemplos/ejemplo.net/bin/Debug/netcoreapp2.1/ejemplo.net.deps.json
+/home/alumno/itedes/modulo1/segmento2/apunte3/ejemplos/ejemplo.net/bin/Debug/netcoreapp2.1/ejemplo.net.runtimeconfig.json
+/home/alumno/itedes/modulo1/segmento2/apunte3/ejemplos/ejemplo.net/bin/Debug/netcoreapp2.1/ejemplo.net.runtimeconfig.dev.json
+/home/alumno/itedes/modulo1/segmento2/apunte3/ejemplos/ejemplo.net/bin/Debug/netcoreapp2.1/ejemplo.net.dll
+/home/alumno/itedes/modulo1/segmento2/apunte3/ejemplos/ejemplo.net/bin/Debug/netcoreapp2.1/ejemplo.net.pdb
+/home/alumno/itedes/modulo1/segmento2/apunte3/ejemplos/ejemplo.net/obj/Debug/netcoreapp2.1/ejemplo.net.dll
+/home/alumno/itedes/modulo1/segmento2/apunte3/ejemplos/ejemplo.net/obj/Debug/netcoreapp2.1/ejemplo.net.pdb
