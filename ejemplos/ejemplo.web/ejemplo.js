@@ -1,8 +1,8 @@
 function potencia(base, exponente) {
 	let resultado = base;
 
-	for(let i = 1; i < exponente; i++);
-		resultado*=base;
+	for(let i = 1; i < exponente; i++)
+		resultado *= base;
 	
 	return resultado;
 }
@@ -14,6 +14,6 @@ function exponenciar() {
 
 	const resultado = potencia(base, exponente);
 
-	alert(toString(resultado));
+	alert(resultado);
 }
 	
